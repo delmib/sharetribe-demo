@@ -358,12 +358,12 @@ default: &default_settings
 
   # Default Google Maps API key for communities that don't specify one
   # Default is not to use Google Maps API key
-  google_maps_key:
+  google_maps_key: AIzaSyBbUBzaFXKUwHUkP0sIQioLof6KvylfMNY
 
   # Default Google Maps Static API signing secret. Used in combination with the
   # API key set above. See
   # https://developers.google.com/maps/documentation/maps-static/digital-signature
-  google_maps_signing_secret:
+  google_maps_signing_secret: xvZ3tERGdhprdLzyy5EWH71jZAI=
 
   # Path or URL for landing page assets.
   #
